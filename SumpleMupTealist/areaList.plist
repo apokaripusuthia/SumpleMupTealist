@@ -2,6 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ロシア - 2</key>
+	<dict>
+		<key>longitude</key>
+		<string></string>
+		<key>latitude</key>
+		<string></string>
+		<key>description</key>
+		<string>ボルシチ</string>
+	</dict>
 	<key>ロシア</key>
 	<dict>
 		<key>longitude</key>
