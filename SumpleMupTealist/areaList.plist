@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ロシア</key>
+	<dict>
+		<key>longitude</key>
+		<string></string>
+		<key>latitude</key>
+		<string></string>
+		<key>description</key>
+		<string>ボルシチ</string>
+	</dict>
+	<key>日本</key>
+	<dict>
+		<key>longitude</key>
+		<string>123.9025112</string>
+		<key>latitude</key>
+		<string>10.3210646</string>
+		<key>description</key>
+		<string>日本茶</string>
+	</dict>
+</dict>
+</plist>
